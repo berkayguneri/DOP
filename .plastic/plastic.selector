@@ -1,0 +1,4 @@
+repository "characterMovementTest@berkaygunerri@cloud"
+  path "/"
+    br "/main"
+    co "/main"
